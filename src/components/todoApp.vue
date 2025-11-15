@@ -14,7 +14,7 @@
 
             <!-- No tasks message -->
             <p class="text-gray-500 text-center">
-                No tasks yet! Add your first task.
+                No tasks yet! Please Add your first task.
             </p>
 
             <!-- List of tasks -->
